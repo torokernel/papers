@@ -1,2 +1,2 @@
 # papers
-This repo contains paper and presentations about toro
+This repo contains papers and presentations about toro
